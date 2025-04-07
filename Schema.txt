@@ -1,0 +1,6 @@
+
+     | title                   | isbn          | publication_year | author_name      | author_email              | publisher_name              | publisher_address    |
+     |-------------------------|---------------|------------------|------------------|---------------------------|-----------------------------|----------------------|
+     | To Kill a Mockingbird   | 9780061120084 | 1960             | Harper Lee       | harper.lee@example.com     | J. B. Lippincott & Co.      | Philadelphia, PA     |
+     | Pride and Prejudice     | 9780141439518 | 1813             | Jane Austen      | jane.austen@example.com    | T. Egerton                  | London, UK           |
+     | The Catcher in the Rye  | 9780316769488 | 1951             | J.D. Salinger    | jd.salinger@example.com    | Little, Brown and Company   | Boston, MA           |
